@@ -1,0 +1,892 @@
+[
+  {
+    "_id" : {
+      "$oid" : "66cf7ccd945050ac885045b9"
+    },
+    "name" : "Estudio de Satisfacción del cliente",
+    "id_project" : 2,
+    "id_anonymous_participation" : "7889",
+    "url" : "https://vcbqa.datys.cu/participate/7889",
+    "description" : "Estudio de Satisfacción del cliente",
+    "workgroup" : "Grupo Agencia de viajes EcoTur",
+    "id_workgroup" : 1,
+    "icon" : "",
+    "fill_by_device" : false,
+    "responses" : {
+      "valid" : 0,
+      "noValid" : 0
+    },
+    "recopilationPeriod" : {
+      "startedAt" : {
+        "$numberLong" : "1715058000000"
+      },
+      "endAt" : {
+        "$numberLong" : "1732942800000"
+      }
+    },
+    "sphere" : "Innovación_e_infraestructuras",
+    "id" : 8,
+    "characterization" : {
+      "provincia" : [
+        "Santi Spititu"
+      ],
+      "municipio" : [
+        "Trinidad",
+        "Santi Spiritu",
+        "Cabaiguan"
+      ],
+      "sex" : null,
+      "age_group" : null,
+      "educational_level" : null
+    }
+  },
+  {
+    "_id" : {
+      "$oid" : "66cf7ccd945050ac885045ba"
+    },
+    "name" : "Encuesta de Circuitos",
+    "id_project" : 1,
+    "id_anonymous_participation" : "2635",
+    "url" : "https://vcbqa.datys.cu/participate/2635",
+    "description" : "Demo de Encuesta de Circuitos",
+    "workgroup" : "Grupo Agencia de viajes EcoTur",
+    "id_workgroup" : 1,
+    "icon" : "",
+    "fill_by_device" : false,
+    "responses" : {
+      "valid" : 4,
+      "noValid" : 0
+    },
+    "recopilationPeriod" : {
+      "startedAt" : {
+        "$numberLong" : "1715058000000"
+      },
+      "endAt" : {
+        "$numberLong" : "1732942800000"
+      }
+    },
+    "sphere" : "Reducción_de_desigualdad",
+    "id" : 9,
+    "characterization" : {
+      "provincia" : [
+        "Cienfuegos",
+        "Villa Clara"
+      ],
+      "municipio" : [
+        "Cienfuegos",
+        "Abreu",
+        "Caibarién",
+        "Placetas",
+        "Palmira"
+      ],
+      "sex" : null,
+      "age_group" : null,
+      "educational_level" : null
+    }
+  },
+  {
+    "_id" : {
+      "$oid" : "66cf7ccd945050ac885045bb"
+    },
+    "name" : "Encuesta salud",
+    "id_project" : 6,
+    "id_anonymous_participation" : "gWOEODk",
+    "url" : "https://vcbqa.datys.cu/participate/gWOEODk",
+    "description" : "Instrucciones para la preparación de ponencias para la Convención Informática Habana\r\nInstructions for Preparing Informática Habana Convention’s paper\r\nNombre Apellido Apellido1, Nombre Apellido Apellido2, Nombre Apellido Apellido3 \r\n1 Institución, País, Correo electrónico\r\n2 Institución, País, Correo electrónico\r\n3 Institución, País, Correo electrónico\r\n\r\nResumen: Debe ser claro, descriptivo y poseer 250 palabras como máximo. Debe contener una breve descripción del problema científico, la metodología utilizada y los resultados alcanzados, finalizar con un comentario respecto al significado de los resultados o una pequeña conclusión y no debe incluir referencias ni ecuaciones. \r\nEs de gran importancia que conozca que los eventos de la Convención exigen originalidad y novedad científica por lo que solo se aceptarán ponencias que no hayan sido previamente publicadas en revistas científicas o eventos, ni remitidas simultáneamente a otros eventos dentro o fuera de la Convención.  En caso de que la",
+    "workgroup" : "Grupo Salud",
+    "id_workgroup" : 2,
+    "icon" : "",
+    "fill_by_device" : false,
+    "responses" : {
+      "valid" : 0,
+      "noValid" : 0
+    },
+    "recopilationPeriod" : {
+      "startedAt" : {
+        "$numberLong" : "1715058000000"
+      },
+      "endAt" : {
+        "$numberLong" : "1732942800000"
+      }
+    },
+    "sphere" : "Flora_y_fauna_terrestres",
+    "id" : 14,
+    "characterization" : {
+      "provincia" : [
+        "Cienfuegos"
+      ],
+      "municipio" : [
+        "Palmira",
+        "Abreu",
+        "Cienfuegos",
+        "Cruces"
+      ],
+      "sex" : "Femenino",
+      "age_group" : "27 a 40",
+      "educational_level" : "Técnico medio"
+    }
+  },
+  {
+    "_id" : {
+      "$oid" : "66cf7ccd945050ac885045bc"
+    },
+    "name" : "Prueba osniel",
+    "id_project" : 4,
+    "id_anonymous_participation" : "ejBvpnI",
+    "url" : "https://vcbqa.datys.cu/participate/ejBvpnI",
+    "description" : "",
+    "workgroup" : "Grupo Agencia de viajes EcoTur",
+    "id_workgroup" : 1,
+    "icon" : "",
+    "fill_by_device" : false,
+    "responses" : {
+      "valid" : 0,
+      "noValid" : 0
+    },
+    "recopilationPeriod" : {
+      "startedAt" : {
+        "$numberLong" : "1715058000000"
+      },
+      "endAt" : {
+        "$numberLong" : "1732942800000"
+      }
+    },
+    "sphere" : "Ciudades_y_comunidades",
+    "id" : 10,
+    "characterization" : {
+      "provincia" : [
+        "Villa Clara"
+      ],
+      "municipio" : [
+        "Caibarién",
+        "Camajuaní",
+        "Encrucijada",
+        "Manicaragua"
+      ],
+      "sex" : "Femenino",
+      "age_group" : "27 a 59",
+      "educational_level" : "Obrero calificado"
+    }
+  },
+  {
+    "_id" : {
+      "$oid" : "66cf7ccd945050ac885045bd"
+    },
+    "name" : "Encuesta universidad",
+    "id_project" : 5,
+    "id_anonymous_participation" : "xxuxlJQ",
+    "url" : "https://vcbqa.datys.cu/participate/xxuxlJQ",
+    "description" : "",
+    "workgroup" : "Grupo Agencia de viajes EcoTur",
+    "id_workgroup" : 1,
+    "icon" : "",
+    "fill_by_device" : false,
+    "responses" : {
+      "valid" : 0,
+      "noValid" : 0
+    },
+    "recopilationPeriod" : {
+      "startedAt" : {
+        "$numberLong" : "1715058000000"
+      },
+      "endAt" : {
+        "$numberLong" : "1732942800000"
+      }
+    },
+    "sphere" : "Paz_justicia_e_instituciones",
+    "id" : 15,
+    "characterization" : {
+      "provincia" : [
+        "Villa Clara",
+        "Cienfuegos"
+      ],
+      "municipio" : [
+        "Placetas"
+      ],
+      "sex" : "Femenino",
+      "age_group" : "16 a 26",
+      "educational_level" : "Preuniversitario"
+    }
+  },
+  {
+    "_id" : {
+      "$oid" : "66cf7ccd945050ac885045be"
+    },
+    "name" : "Proyecto Coopelia",
+    "id_project" : 3,
+    "id_anonymous_participation" : "2636",
+    "url" : "https://vcbqa.datys.cu/participate/2636",
+    "description" : "Proyecto de ejemplo para coopelia",
+    "workgroup" : "Grupo Agencia de viajes EcoTur",
+    "id_workgroup" : 1,
+    "icon" : "",
+    "fill_by_device" : false,
+    "responses" : {
+      "valid" : 0,
+      "noValid" : 0
+    },
+    "recopilationPeriod" : {
+      "startedAt" : {
+        "$numberLong" : "1715058000000"
+      },
+      "endAt" : {
+        "$numberLong" : "1732942800000"
+      }
+    },
+    "sphere" : "Igualdad_de_género",
+    "id" : 4,
+    "characterization" : {
+      "provincia" : [
+        "Camaguey"
+      ],
+      "municipio" : [
+        ""
+      ],
+      "sex" : null,
+      "age_group" : null,
+      "educational_level" : null
+    }
+  },
+  {
+    "_id" : {
+      "$oid" : "66cf7ccd945050ac885045bf"
+    },
+    "name" : "Encuesta 3",
+    "id_project" : 7,
+    "id_anonymous_participation" : "3A-YJjI",
+    "url" : "https://vcbqa.datys.cu/participate/3A-YJjI",
+    "description" : "",
+    "workgroup" : "Grupo 1",
+    "id_workgroup" : 3,
+    "icon" : "",
+    "fill_by_device" : false,
+    "responses" : {
+      "valid" : 0,
+      "noValid" : 0
+    },
+    "recopilationPeriod" : {
+      "startedAt" : {
+        "$numberLong" : "1715058000000"
+      },
+      "endAt" : {
+        "$numberLong" : "1732942800000"
+      }
+    },
+    "sphere" : "Lucha_contra_el_cambio_climático",
+    "id" : 12,
+    "characterization" : {
+      "provincia" : [
+        "Cienfuegos",
+        "La Habana",
+        "Pinar del Rio"
+      ],
+      "municipio" : [
+        ""
+      ],
+      "sex" : "Masculino",
+      "age_group" : "60 años o mas",
+      "educational_level" : "Superior"
+    }
+  },
+  {
+    "_id" : {
+      "$oid" : "66cf7ccd945050ac885045c0"
+    },
+    "name" : "Encuesta 5",
+    "id_project" : 9,
+    "id_anonymous_participation" : "BbbHN44",
+    "url" : "https://vcbqa.datys.cu/participate/BbbHN44",
+    "description" : "",
+    "workgroup" : "Grupo 1",
+    "id_workgroup" : 3,
+    "icon" : "",
+    "fill_by_device" : false,
+    "responses" : {
+      "valid" : 0,
+      "noValid" : 0
+    },
+    "recopilationPeriod" : {
+      "startedAt" : {
+        "$numberLong" : "1715058000000"
+      },
+      "endAt" : {
+        "$numberLong" : "1732942800000"
+      }
+    },
+    "sphere" : "Flora_y_fauna_acuáticas",
+    "id" : 13,
+    "characterization" : {
+      "provincia" : [
+        "Villa Clara",
+        "Matanzas",
+        "Santi Spiritu"
+      ],
+      "municipio" : [
+        ""
+      ],
+      "sex" : "Masculino",
+      "age_group" : "60 años o mas",
+      "educational_level" : "Superior"
+    }
+  },
+  {
+    "_id" : {
+      "$oid" : "66cf7ccd945050ac885045c1"
+    },
+    "name" : "Encuesta 6 ",
+    "id_project" : 10,
+    "id_anonymous_participation" : "cTJZOaM",
+    "url" : "https://vcbqa.datys.cu/participate/cTJZOaM",
+    "description" : "mkb ashbfhab kjfbn qaw fjkab df liwef wefu ",
+    "workgroup" : "Grupo 2 ",
+    "id_workgroup" : 4,
+    "icon" : "",
+    "fill_by_device" : false,
+    "responses" : {
+      "valid" : 25,
+      "noValid" : 0
+    },
+    "recopilationPeriod" : {
+      "startedAt" : {
+        "$numberLong" : "1715058000000"
+      },
+      "endAt" : {
+        "$numberLong" : "1732942800000"
+      }
+    },
+    "sphere" : "Alimentación",
+    "id" : 1,
+    "characterization" : {
+      "provincia" : [
+        ""
+      ],
+      "municipio" : [
+        ""
+      ],
+      "sex" : "Masculino",
+      "age_group" : "27 a 59",
+      "educational_level" : "Secundaria básica"
+    }
+  },
+  {
+    "_id" : {
+      "$oid" : "66cf7ccd945050ac885045c2"
+    },
+    "name" : "Encuesta de Clima Organizacional",
+    "id_project" : 11,
+    "id_anonymous_participation" : "ZxY123",
+    "url" : "https://vcbqa.datys.cu/participate/ZxY123",
+    "description" : "Encuesta para evaluar el clima organizacional.",
+    "workgroup" : "Grupo Recursos Humanos",
+    "id_workgroup" : 5,
+    "icon" : "",
+    "fill_by_device" : false,
+    "responses" : {
+      "valid" : 10,
+      "noValid" : 2
+    },
+    "recopilationPeriod" : {
+      "startedAt" : {
+        "$numberLong" : "1715058000000"
+      },
+      "endAt" : {
+        "$numberLong" : "1732942800000"
+      }
+    },
+    "sphere" : "Clima_organizacional",
+    "id" : 16,
+    "characterization" : {
+      "provincia" : [
+        "Matanzas"
+      ],
+      "municipio" : [
+        "Matanzas",
+        "Cárdenas"
+      ],
+      "sex" : "Masculino",
+      "age_group" : "30 a 45",
+      "educational_level" : "Licenciatura"
+    }
+  },
+  {
+    "_id" : {
+      "$oid" : "66cf7ccd945050ac885045c3"
+    },
+    "name" : "Encuesta de Satisfacción de Empleados",
+    "id_project" : 12,
+    "id_anonymous_participation" : "AbC456",
+    "url" : "https://vcbqa.datys.cu/participate/AbC456",
+    "description" : "Evaluación de la satisfacción de los empleados.",
+    "workgroup" : "Grupo Recursos Humanos",
+    "id_workgroup" : 5,
+    "icon" : "",
+    "fill_by_device" : false,
+    "responses" : {
+      "valid" : 15,
+      "noValid" : 1
+    },
+    "recopilationPeriod" : {
+      "startedAt" : {
+        "$numberLong" : "1715058000000"
+      },
+      "endAt" : {
+        "$numberLong" : "1732942800000"
+      }
+    },
+    "sphere" : "Satisfacción_empleados",
+    "id" : 17,
+    "characterization" : {
+      "provincia" : [
+        "Holguín"
+      ],
+      "municipio" : [
+        "Holguín",
+        "Rafael Freyre"
+      ],
+      "sex" : "Femenino",
+      "age_group" : "25 a 35",
+      "educational_level" : "Superior"
+    }
+  },
+  {
+    "_id" : {
+      "$oid" : "66cf7ccd945050ac885045c4"
+    },
+    "name" : "Encuesta de Evaluación de Proyectos",
+    "id_project" : 13,
+    "id_anonymous_participation" : "Def789",
+    "url" : "https://vcbqa.datys.cu/participate/Def789",
+    "description" : "Evaluación de los proyectos en curso.",
+    "workgroup" : "Grupo de Proyectos",
+    "id_workgroup" : 6,
+    "icon" : "",
+    "fill_by_device" : false,
+    "responses" : {
+      "valid" : 8,
+      "noValid" : 0
+    },
+    "recopilationPeriod" : {
+      "startedAt" : {
+        "$numberLong" : "1715058000000"
+      },
+      "endAt" : {
+        "$numberLong" : "1732942800000"
+      }
+    },
+    "sphere" : "Evaluación_de_proyectos",
+    "id" : 18,
+    "characterization" : {
+      "provincia" : [
+        "La Habana"
+      ],
+      "municipio" : [
+        "Plaza de la Revolución",
+        "Centro Habana"
+      ],
+      "sex" : "Masculino",
+      "age_group" : "40 a 55",
+      "educational_level" : "Maestría"
+    }
+  },
+  {
+    "_id" : {
+      "$oid" : "66cf7ccd945050ac885045c5"
+    },
+    "name" : "Encuesta de Impacto Social",
+    "id_project" : 14,
+    "id_anonymous_participation" : "Ghi012",
+    "url" : "https://vcbqa.datys.cu/participate/Ghi012",
+    "description" : "Evaluar el impacto social de los proyectos.",
+    "workgroup" : "Grupo de Investigación",
+    "id_workgroup" : 7,
+    "icon" : "",
+    "fill_by_device" : false,
+    "responses" : {
+      "valid" : 20,
+      "noValid" : 4
+    },
+    "recopilationPeriod" : {
+      "startedAt" : {
+        "$numberLong" : "1715058000000"
+      },
+      "endAt" : {
+        "$numberLong" : "1732942800000"
+      }
+    },
+    "sphere" : "Impacto_social",
+    "id" : 19,
+    "characterization" : {
+      "provincia" : [
+        "Santiago de Cuba"
+      ],
+      "municipio" : [
+        "Santiago de Cuba",
+        "Segundo Frente"
+      ],
+      "sex" : "Femenino",
+      "age_group" : "30 a 50",
+      "educational_level" : "Técnico superior"
+    }
+  },
+    {
+      "_id": {
+        "$oid": "66cf7ccd945050ac885045c6"
+      },
+      "name": "Encuesta de Calidad de Vida",
+      "id_project": 15,
+      "id_anonymous_participation": "Jkl345",
+      "url": "https://vcbqa.datys.cu/participate/Jkl345",
+      "description": "Encuesta para evaluar la calidad de vida en Cienfuegos.",
+      "workgroup": "Grupo Bienestar Social",
+      "id_workgroup": 8,
+      "icon": "",
+      "fill_by_device": false,
+      "responses": {
+        "valid": 30,
+        "noValid": 5
+      },
+      "recopilationPeriod": {
+        "startedAt": {
+          "$numberLong": "1715058000000"
+        },
+        "endAt": {
+          "$numberLong": "1732942800000"
+        }
+      },
+      "sphere": "Calidad_de_vida",
+      "id": 20,
+      "characterization": {
+        "provincia": [
+          "Cienfuegos"
+        ],
+        "municipio": [
+          "Cienfuegos",
+          "Palmira"
+        ],
+        "sex": "Masculino",
+        "age_group": "18 a 30",
+        "educational_level": "Secundaria básica"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "66cf7ccd945050ac885045c7"
+      },
+      "name": "Encuesta de Salud Pública",
+      "id_project": 16,
+      "id_anonymous_participation": "Mno678",
+      "url": "https://vcbqa.datys.cu/participate/Mno678",
+      "description": "Evaluación de la salud pública en Villa Clara.",
+      "workgroup": "Grupo Salud Pública",
+      "id_workgroup": 9,
+      "icon": "",
+      "fill_by_device": false,
+      "responses": {
+        "valid": 25,
+        "noValid": 3
+      },
+      "recopilationPeriod": {
+        "startedAt": {
+          "$numberLong": "1715058000000"
+        },
+        "endAt": {
+          "$numberLong": "1732942800000"
+        }
+      },
+      "sphere": "Salud_pública",
+      "id": 21,
+      "characterization": {
+        "provincia": [
+          "Villa Clara"
+        ],
+        "municipio": [
+          "Santa Clara",
+          "Placetas"
+        ],
+        "sex": "Femenino",
+        "age_group": "25 a 40",
+        "educational_level": "Licenciatura"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "66cf7ccd945050ac885045c8"
+      },
+      "name": "Encuesta de Educación",
+      "id_project": 17,
+      "id_anonymous_participation": "Pqr901",
+      "url": "https://vcbqa.datys.cu/participate/Pqr901",
+      "description": "Encuesta sobre la educación en Villa Clara.",
+      "workgroup": "Grupo Educación",
+      "id_workgroup": 10,
+      "icon": "",
+      "fill_by_device": false,
+      "responses": {
+        "valid": 18,
+        "noValid": 2
+      },
+      "recopilationPeriod": {
+        "startedAt": {
+          "$numberLong": "1715058000000"
+        },
+        "endAt": {
+          "$numberLong": "1732942800000"
+        }
+      },
+      "sphere": "Educación",
+      "id": 22,
+      "characterization": {
+        "provincia": [
+          "Villa Clara"
+        ],
+        "municipio": [
+          "Camajuaní",
+          "Encrucijada"
+        ],
+        "sex": "Masculino",
+        "age_group": "30 a 50",
+        "educational_level": "Técnico medio"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "66cf7ccd945050ac885045c9"
+      },
+      "name": "Encuesta Ambiental",
+      "id_project": 18,
+      "id_anonymous_participation": "Stu234",
+      "url": "https://vcbqa.datys.cu/participate/Stu234",
+      "description": "Evaluación del impacto ambiental en Cienfuegos.",
+      "workgroup": "Grupo Ambiental",
+      "id_workgroup": 11,
+      "icon": "",
+      "fill_by_device": false,
+      "responses": {
+        "valid": 12,
+        "noValid": 1
+      },
+      "recopilationPeriod": {
+        "startedAt": {
+          "$numberLong": "1715058000000"
+        },
+        "endAt": {
+          "$numberLong": "1732942800000"
+        }
+      },
+      "sphere": "Impacto_ambiental",
+      "id": 23,
+      "characterization": {
+        "provincia": [
+          "Cienfuegos"
+        ],
+        "municipio": [
+          "Cienfuegos",
+          "Cruces"
+        ],
+        "sex": "Femenino",
+        "age_group": "20 a 35",
+        "educational_level": "Preuniversitario"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "66cf7ccd945050ac885045ca"
+      },
+      "name": "Encuesta de Transporte",
+      "id_project": 19,
+      "id_anonymous_participation": "Vwx567",
+      "url": "https://vcbqa.datys.cu/participate/Vwx567",
+      "description": "Evaluación del sistema de transporte en Villa Clara.",
+      "workgroup": "Grupo Transporte",
+      "id_workgroup": 12,
+      "icon": "",
+      "fill_by_device": false,
+      "responses": {
+        "valid": 20,
+        "noValid": 4
+      },
+      "recopilationPeriod": {
+        "startedAt": {
+          "$numberLong": "1715058000000"
+        },
+        "endAt": {
+          "$numberLong": "1732942800000"
+        }
+      },
+      "sphere": "Transporte",
+      "id": 24,
+      "characterization": {
+        "provincia": [
+          "Villa Clara"
+        ],
+        "municipio": [
+          "Santa Clara",
+          "Sagua la Grande"
+        ],
+        "sex": "Masculino",
+        "age_group": "15 a 25",
+        "educational_level": "Secundaria básica"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "66cf7ccd945050ac885045cb"
+      },
+      "name": "Encuesta de Cultura",
+      "id_project": 20,
+      "id_anonymous_participation": "Yza678",
+      "url": "https://vcbqa.datys.cu/participate/Yza678",
+      "description": "Encuesta sobre la cultura en Cienfuegos.",
+      "workgroup": "Grupo Cultura",
+      "id_workgroup": 13,
+      "icon": "",
+      "fill_by_device": false,
+      "responses": {
+        "valid": 15,
+        "noValid": 2
+      },
+      "recopilationPeriod": {
+        "startedAt": {
+          "$numberLong": "1715058000000"
+        },
+        "endAt": {
+          "$numberLong": "1732942800000"
+        }
+      },
+      "sphere": "Cultura",
+      "id": 25,
+      "characterization": {
+        "provincia": [
+          "Cienfuegos"
+        ],
+        "municipio": [
+          "Cienfuegos",
+          "Palmira"
+        ],
+        "sex": "Femenino",
+        "age_group": "40 a 60",
+        "educational_level": "Licenciatura"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "66cf7ccd945050ac885045cc"
+      },
+      "name": "Encuesta de Empleo",
+      "id_project": 21,
+      "id_anonymous_participation": "Bcd789",
+      "url": "https://vcbqa.datys.cu/participate/Bcd789",
+      "description": "Evaluación del empleo en Villa Clara.",
+      "workgroup": "Grupo Empleo",
+      "id_workgroup": 14,
+      "icon": "",
+      "fill_by_device": false,
+      "responses": {
+        "valid": 22,
+        "noValid": 3
+      },
+      "recopilationPeriod": {
+        "startedAt": {
+          "$numberLong": "1715058000000"
+        },
+        "endAt": {
+          "$numberLong": "1732942800000"
+        }
+      },
+      "sphere": "Empleo",
+      "id": 26,
+      "characterization": {
+        "provincia": [
+          "Villa Clara"
+        ],
+        "municipio": [
+          "Santa Clara",
+          "Placetas"
+        ],
+        "sex": "Masculino",
+        "age_group": "30 a 50",
+        "educational_level": "Técnico medio"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "66cf7ccd945050ac885045cd"
+      },
+      "name": "Encuesta de Turismo",
+      "id_project": 22,
+      "id_anonymous_participation": "Efg012",
+      "url": "https://vcbqa.datys.cu/participate/Efg012",
+      "description": "Evaluación del turismo en Cienfuegos.",
+      "workgroup": "Grupo Turismo",
+      "id_workgroup": 15,
+      "icon": "",
+      "fill_by_device": false,
+      "responses": {
+        "valid": 28,
+        "noValid": 6
+      },
+      "recopilationPeriod": {
+        "startedAt": {
+          "$numberLong": "1715058000000"
+        },
+        "endAt": {
+          "$numberLong": "1732942800000"
+        }
+      },
+      "sphere": "Turismo",
+      "id": 27,
+      "characterization": {
+        "provincia": [
+          "Cienfuegos"
+        ],
+        "municipio": [
+          "Cienfuegos",
+          "Cruces"
+        ],
+        "sex": "Femenino",
+        "age_group": "20 a 35",
+        "educational_level": "Licenciatura"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "66cf7ccd945050ac885045ce"
+      },
+      "name": "Encuesta de Innovación",
+      "id_project": 23,
+      "id_anonymous_participation": "Hij345",
+      "url": "https://vcbqa.datys.cu/participate/Hij345",
+      "description": "Evaluación de la innovación en empresas de Villa Clara.",
+      "workgroup": "Grupo Innovación",
+      "id_workgroup": 16,
+      "icon": "",
+      "fill_by_device": false,
+      "responses": {
+        "valid": 10,
+        "noValid": 1
+      },
+      "recopilationPeriod": {
+        "startedAt": {
+          "$numberLong": "1715058000000"
+        },
+        "endAt": {
+          "$numberLong": "1732942800000"
+        }
+      },
+      "sphere": "Innovación",
+      "id": 28,
+      "characterization": {
+        "provincia": [
+          "Villa Clara"
+        ],
+        "municipio": [
+          "Santa Clara",
+          "Sagua la Grande"
+        ],
+        "sex": "Masculino",
+        "age_group": "35 a 50",
+        "educational_level": "Maestría"
+      }
+    }
+
+]
